@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\i5\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0A9270-ED7F-4E23-B4A6-BAB4DF50AE5C}|Server\\Server.csproj|d:\\i5\\chatapp\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0A9270-ED7F-4E23-B4A6-BAB4DF50AE5C}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0A9270-ED7F-4E23-B4A6-BAB4DF50AE5C}|Server\\Server.csproj|d:\\i5\\chatapp\\server\\matchroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0A9270-ED7F-4E23-B4A6-BAB4DF50AE5C}|Server\\Server.csproj|solutionrelative:server\\matchroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80472425-E8EF-41A7-841D-E406838C3B16}|Client\\Client.csproj|d:\\i5\\chatapp\\client\\carogameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80472425-E8EF-41A7-841D-E406838C3B16}|Client\\Client.csproj|solutionrelative:client\\carogameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80472425-E8EF-41A7-841D-E406838C3B16}|Client\\Client.csproj|D:\\i5\\ChatApp\\client\\carogameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80472425-E8EF-41A7-841D-E406838C3B16}|Client\\Client.csproj|solutionrelative:client\\carogameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchRoom.cs",
+              "DocumentMoniker": "D:\\i5\\ChatApp\\Server\\MatchRoom.cs",
+              "RelativeDocumentMoniker": "Server\\MatchRoom.cs",
+              "ToolTip": "D:\\i5\\ChatApp\\Server\\MatchRoom.cs",
+              "RelativeToolTip": "Server\\MatchRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:52:53.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CaroGameForm.cs [Design]",
+              "DocumentMoniker": "D:\\i5\\ChatApp\\Client\\CaroGameForm.cs",
+              "RelativeDocumentMoniker": "Client\\CaroGameForm.cs",
+              "ToolTip": "D:\\i5\\ChatApp\\Client\\CaroGameForm.cs [Design]",
+              "RelativeToolTip": "Client\\CaroGameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:29:01.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CaroGameForm.cs",
+              "DocumentMoniker": "D:\\i5\\ChatApp\\Client\\CaroGameForm.cs",
+              "RelativeDocumentMoniker": "Client\\CaroGameForm.cs",
+              "ToolTip": "D:\\i5\\ChatApp\\Client\\CaroGameForm.cs",
+              "RelativeToolTip": "Client\\CaroGameForm.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAcwPwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:24:11.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\i5\\ChatApp\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\i5\\ChatApp\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:41:22.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
